@@ -1,0 +1,9 @@
+[package]
+name = "diplom"
+version = "0.1.0"
+
+[[bin]]
+lang = "c++17"
+
+[dev-dependencies]
+dsplib = { git = "git@github.com:vitalsong/dsplib.git" }

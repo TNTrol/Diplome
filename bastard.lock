@@ -1,0 +1,8 @@
+[package]
+name = diplom
+cmake = 3.27.0
+bastard = 0.16.8
+
+[dev-dependencies]
+dsplib = { git = "git@github.com:vitalsong/dsplib.git", rev = "b97792c" }
+
