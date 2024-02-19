@@ -14,8 +14,8 @@
 #include <omni\dsp\filter.h>
 #include <gr\gr.h>
 
-#include "..\Tools\sample.h"
-#include "..\..\Tools\Galileo\E1_Codes.h"
+#include "Tools\sample.h"
+#include "Tools\Galileo\E1_Codes.h"
 
 /////////////////////////////////////////////////////////////////////
 // режим вычислений
